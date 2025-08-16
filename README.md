@@ -1,4 +1,4 @@
-**The attached document comprises of all the detailed and structured answers to all the below case study question.**
+**The attached document comprises of detailed and structured answers to all the below case study question.**
 
 **Case Studies & Guesstimates for Entertainment Industries**
 
