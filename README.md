@@ -1,3 +1,5 @@
+**The added file comprises of all the detailed and structured answers to all the below case study question.**
+
 **Case Studies & Guesstimates for Entertainment Industries**
 
 The entertainment industry is a vital part of the global economy, encompassing film, music, television, gaming, and digital content. Its importance in today's era is underscored by its ability to shape culture, provide escapism, and drive technological innovation. The proliferation of streaming services, social media, and digital platforms has revolutionized content consumption, making entertainment more accessible and personalized than ever. 
@@ -81,4 +83,4 @@ Question 2:
 If Version B (interactive guide) shows higher conversion rates but slightly lower retention, how would you balance these results when making a recommendation to the business?
 Hint: Consider the long-term value of higher conversions versus the potential impact of reduced retention. You might suggest refining Version B to improve retention without sacrificing conversions.
 
-The added file comprises of all the detailed and structured answers to all the above case study question. 
+
